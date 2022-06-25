@@ -1,0 +1,6 @@
+.*.cache
+.idea
+.vagrant
+/vendor
+phpunit.xml
+composer.lock
